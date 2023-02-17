@@ -1,0 +1,277 @@
+[
+    {
+        "id": 1,
+        "nom": "Le Parrain",
+        "description": "Le patriarche d'une famille de criminels régnant sur le quartier de Little Italy à New York est sur le point de passer la main à son fils Michael. Mais celui-ci, ne voulant pas se mêler aux affaires de la famille, va être entraîné malgré lui dans la spirale de la violence.",
+        "type": "film",
+        "categories": [
+            "drame",
+            "crime"
+        ],
+        "age_minimal": 16,
+        "realisateur": "Francis Ford Coppola"
+    },
+    {
+        "id": 2,
+        "nom": "Breaking Bad",
+        "description": "Walter White est professeur de chimie dans un lycée. Lorsqu'il apprend qu'il est atteint d'un cancer en phase terminale, il décide de se lancer dans la production de méthamphétamine pour assurer l'avenir financier de sa famille.",
+        "type": "série",
+        "categories": [
+            "drame",
+            "crime"
+        ],
+        "age_minimal": 18,
+        "nombre_episodes": 62,
+        "nombre_saisons": 5,
+        "realisateur": "Vince Gilligan"
+    },
+    {
+        "id": 3,
+        "nom": "La La Land",
+        "description": "Mia, une jeune actrice en devenir, et Sebastian, un musicien de jazz passionné, tombent amoureux à Los Angeles. Mais leur amour est mis à rude épreuve par les obstacles de la vie professionnelle.",
+        "type": "film",
+        "categories": [
+            "romance",
+            "comédie musicale"
+        ],
+        "age_minimal": 12,
+        "realisateur": "Damien Chazelle"
+    },
+    {
+        "id": 4,
+        "nom": "Friends",
+        "description": "Cette série culte suit les aventures de six amis new-yorkais, Ross, Rachel, Chandler, Monica, Joey et Phoebe, qui affrontent ensemble les hauts et les bas de la vie.",
+        "type": "série",
+        "categories": [
+            "comédie"
+        ],
+        "age_minimal": 12,
+        "nombre_episodes": 236,
+        "nombre_saisons": 10,
+        "realisateur": "Kevin S. Bright, David Crane, Marta Kauffman"
+    },
+    {
+        "id": 5,
+        "nom": "Forrest Gump",
+        "description": "Forrest Gump, un homme simple d'esprit, traverse l'histoire américaine de la seconde moitié du XXe siècle et rencontre des personnages historiques célèbres.",
+        "type": "film",
+        "categories": [
+            "drame",
+            "comédie"
+        ],
+        "age_minimal": 12,
+        "realisateur": "Robert Zemeckis"
+    },
+    {
+        "id": 6,
+        "nom": "Game of Thrones",
+        "description": "Dans un monde fantastique où les familles nobles se disputent le trône de fer, une menace venue du nord s'annonce. Pendant ce temps, d'autres intrigues se trament dans les coulisses du pouvoir.",
+        "type": "série",
+        "categories": [
+            "drame",
+            "fantasy"
+        ],
+        "age_minimal": 18,
+        "nombre_episodes": 73,
+        "nombre_saisons": 8,
+        "realisateur": "David Benioff, D. B. Weiss"
+    },
+    {
+        "id": 7,
+        "nom": "Les Évadés",
+        "description": "Deux prisonniers, Andy et Red, vont devenir amis dans la prison de Shawshank. Andy, un ancien banquier, est accusé du meurtre de sa femme et de l'amant de celle-ci, mais il clame son innocence. Ensemble, ils vont tenter de s'évader de prison et de prouver l'innocence d'Andy.",
+        "type": "film",
+        "categories": [
+            "drame",
+            "crime"
+        ],
+        "age_minimal": 14,
+        "realisateur": "Frank Darabont"
+    },
+    {
+        "id": 8,
+        "nom": "Stranger Things",
+        "description": "Dans les années 1980, à Hawkins, dans l'Indiana, un groupe d'enfants enquête sur la mystérieuse disparition de leur ami Will. Ils découvrent l'existence d'un monde parallèle effrayant, le Monde à l'envers, peuplé de créatures dangereuses.",
+        "type": "série",
+        "categories": [
+            "drame",
+            "science-fiction",
+            "horreur"
+        ],
+        "age_minimal": 16,
+        "nombre_episodes": 34,
+        "nombre_saisons": 3,
+        "realisateur": "Matt Duffer, Ross Duffer"
+    },
+    {
+        "id": 9,
+        "nom": "Inception",
+        "description": "Dom Cobb est un voleur expérimenté, spécialisé dans l'extraction d'informations sensibles du subconscient de ses victimes pendant qu'elles dorment. Il est engagé pour accomplir l'inverse : implanter une idée dans l'esprit d'un individu.",
+        "type": "film",
+        "categories": [
+            "drame",
+            "science-fiction"
+        ],
+        "age_minimal": 14,
+        "realisateur": "Christopher Nolan"
+    },
+    {
+        "id": 10,
+        "nom": "The Crown",
+        "description": "Cette série retrace le règne d'Elizabeth II, de son accession au trône en 1952 jusqu'à nos jours. On y découvre les coulisses de la monarchie britannique et les événements marquants de l'histoire contemporaine.",
+        "type": "série",
+        "categories": [
+            "drame",
+            "historique"
+        ],
+        "age_minimal": 16,
+        "nombre_episodes": 40,
+        "nombre_saisons": 4,
+        "realisateur": "Peter Morgan"
+    },
+    {
+        "id": 11,
+        "nom": "Pulp Fiction",
+        "description": "Deux gangsters, Vincent Vega et Jules Winnfield, récupèrent un mystérieux attaché-case pour leur employeur, Marsellus Wallace. Ils doivent aussi s'occuper de la femme de celui-ci, Mia, tout en évitant les ennuis.",
+        "type": "film",
+        "categories": [
+            "drame",
+            "crime"
+        ],
+        "age_minimal": 18,
+        "realisateur": "Quentin Tarantino"
+    },
+    {
+        "id": 12,
+        "nom": "Narcos",
+        "description": "Cette série retrace l'histoire du cartel de Medellín et de son leader, Pablo Escobar, ainsi que la traque menée contre eux par les autorités colombiennes et américaines.",
+        "type": "série",
+        "categories": [
+            "drame",
+            "crime"
+        ],
+        "age_minimal": 18,
+        "nombre_episodes": 30,
+        "nombre_saisons": 3,
+        "realisateur": "Carlo Bernard, Chris Brancato, Doug Miro"
+    },
+    {
+        "Id": 13,
+        "nom": "Inglourious Basterds",
+        "description": "En France occupée pendant la Seconde Guerre mondiale, un groupe de soldats américains juifs, les Bâtards, est chargé de semer la terreur chez l'ennemi en pratiquant la scalpelogie. Ils croisent la route de Shosanna, une jeune juive rescapée d'un massacre perpétré par le colonel allemand Hans Landa, dit 'le chasseur de juifs'. Shosanna est bien décidée à se venger.",
+        "type": "film",
+        "categories": [
+            "drame",
+            "guerre"
+        ],
+        "age_minimal": 16,
+        "realisateur": "Quentin Tarantino"
+    },
+    {
+        "id": 14,
+        "nom": "Jurassic Park",
+        "description": "Un milliardaire philanthrope crée un parc d'attractions peuplé de dinosaures clonés. Lors de la visite d'un groupe d'invités, les dinosaures s'échappent et sèment le chaos.",
+        "type": "film",
+        "categories": [
+            "science-fiction",
+            "aventure"
+        ],
+        "age_minimal": 12,
+        "realisateur": "Steven Spielberg"
+    },
+    {
+        "id": 15,
+        "nom": "Ocean's Eleven",
+        "description": "Danny Ocean, un ancien détenu, réunit une équipe de onze criminels pour voler trois casinos à Las Vegas en une nuit.",
+        "type": "film",
+        "categories": [
+            "action",
+            "thriller"
+        ],
+        "age_minimal": 12,
+        "realisateur": "Steven Soderbergh"
+    },
+    {
+        "id": 16,
+        "nom": "Toy Story",
+        "description": "Le cowboy Woody est le jouet préféré d'un petit garçon, Andy. Mais quand Andy reçoit un nouveau jouet, un astronaute nommé Buzz l'Éclair, Woody se sent menacé et jaloux.",
+        "type": "film",
+        "categories": [
+            "animation",
+            "comédie"
+        ],
+        "age_minimal": 0,
+        "realisateur": "John Lasseter"
+    },
+    {
+        "id": 17,
+        "nom": "La Chute de la Maison Blanche",
+        "description": "Un groupe de terroristes attaque la Maison Blanche et prend en otage le président des États-Unis. Un ancien garde du corps, qui a échoué à protéger le président par le passé, doit tout faire pour le sauver.",
+        "type": "film",
+        "categories": [
+            "action",
+            "thriller"
+        ],
+        "age_minimal": 16,
+        "realisateur": "Roland Emmerich"
+    },
+    {
+        "id": 18,
+        "nom": "Le Grand Bain",
+        "description": "Un groupe d'hommes en crise décide de former une équipe de natation synchronisée masculine, avec l'espoir de participer au championnat du monde.",
+        "type": "film",
+        "categories": [
+            "comédie",
+            "sport"
+        ],
+        "age_minimal": 10,
+        "realisateur": "Gilles Lellouche"
+    },
+    {
+        "id": 19,
+        "nom": "Fight Club",
+        "description": "Un homme insomniaque rencontre un vendeur de savon charismatique et tous deux créent un club de combats pour évacuer leur frustration.",
+        "type": "film",
+        "categories": [
+            "drame",
+            "thriller"
+        ],
+        "age_minimal": 18,
+        "realisateur": "David Fincher"
+    },
+    {
+        "id": 20,
+        "nom": "La Haine",
+        "description": "Après une nuit de violences policières, trois amis d'une cité sensible en banlieue parisienne cherchent à éviter les confrontations et à s'en sortir ensemble.",
+        "type": "film",
+        "categories": [
+            "drame"
+        ],
+        "age_minimal": 16,
+        "realisateur": "Mathieu Kassovitz"
+    },
+    {
+        "id": 21,
+        "nom": "Le Voyage de Chihiro",
+        "description": "Une jeune fille, Chihiro, doit sauver ses parents transformés en porcs dans un monde magique peuplé de créatures étranges.",
+        "type": "film",
+        "categories": [
+            "animation",
+            "aventure"
+        ],
+        "age_minimal": 6,
+        "realisateur": "Hayao Miyazaki"
+    },
+    {
+        "id": 22,
+        "nom": "Inglourious Basterds",
+        "description": "Dans la France occupée par les nazis, un groupe de soldats américains juifs et une jeune femme française se lancent dans une mission de vengeance contre les dirigeants du Troisième Reich.",
+        "type": "film",
+        "categories": [
+            "drame",
+            "guerre"
+        ],
+        "age_minimal": 16,
+        "realisateur": "Quentin Tarantino"
+    }
+]
