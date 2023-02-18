@@ -1,0 +1,55 @@
+.Row-container {
+    position: relative;
+    top: -150px;
+}
+
+.Row-container h5 {
+    position: relative;
+    top: 70px;
+    left: 20px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    width: fit-content;
+}
+
+
+
+
+.Row {
+    gap: 5px;
+    width: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.Row::-webkit-scrollbar {
+    display: none;
+}
+
+.Card {
+    min-width: 220px;
+    min-height: 300px;
+    max-width: 220px;
+    max-height: 300px;
+    overflow: hidden;
+    cursor: pointer;
+    transition: 0.5s;
+    transition-delay: 0.2s;
+}
+
+.Card:hover {
+    z-index: 9999999;
+    scale: 1.2;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.Card img {
+    max-width: 100%;
+    height: auto;
+}
