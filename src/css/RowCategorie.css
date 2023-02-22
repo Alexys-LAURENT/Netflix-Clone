@@ -21,10 +21,11 @@
     width: auto;
     margin-left: 20px;
     margin-right: 20px;
-    overflow-x: scroll;
+    overflow-x: visible;
     overflow-y: hidden;
     padding-bottom: 50px;
     padding-top: 50px;
+    transition: 0.5s;
 }
 
 .Row::-webkit-scrollbar {
@@ -52,4 +53,29 @@
 .Card img {
     max-width: 100%;
     height: auto;
+}
+
+
+.swipeRight {
+    background-color: rgb(255, 0, 0, 0.2);
+    display: inline-block;
+    width: 50px;
+    height: 300px;
+    position: absolute;
+    top: 110px;
+    right: 0px;
+    z-index: 99999;
+}
+
+
+.swipeLeft {
+    background-color: rgb(0, 255, 34, 0.2);
+    display: inline-block;
+    width: 50px;
+    height: 300px;
+    position: absolute;
+    top: 110px;
+    left: 0px;
+    z-index: 99999;
+    display: none;
 }

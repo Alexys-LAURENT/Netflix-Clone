@@ -1,0 +1,62 @@
+.Form {
+    width: 300px;
+    height: 450px;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+}
+
+.body-login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.Form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.Form input {
+    background-color: transparent;
+    border-radius: 3px;
+    width: 80%;
+    height: 35px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    padding: 0 10px;
+}
+
+.Form input:focus {
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    outline: none;
+}
+
+.Form input:nth-child(2) {
+    margin-top: 20px;
+}
+
+.Form button {
+    margin-top: 20px;
+    width: 83%;
+    height: 30px;
+    border-radius: 3px;
+    background-color: #e63d20;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.Register-switch {
+    width: 100%;
+    margin-top: 40px;
+}
+
+.Register-switch p {
+    margin: 0;
+}
+
+.Register-switch button {
+    background-color: #ab5a4c;
+}
